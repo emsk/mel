@@ -69,18 +69,3 @@ Style/HashSyntax:
 Style/MutableConstant:
   Exclude:
     - 'lib/mel/version.rb'
-
-# Offense count: 35
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle, SupportedStyles, ConsistentQuotesInMultiline.
-# SupportedStyles: single_quotes, double_quotes
-Style/StringLiterals:
-  Exclude:
-    - 'Gemfile'
-    - 'Rakefile'
-    - 'bin/console'
-    - 'exe/mel'
-    - 'lib/mel.rb'
-    - 'lib/mel/version.rb'
-    - 'mel.gemspec'
-    - 'spec/spec_helper.rb'

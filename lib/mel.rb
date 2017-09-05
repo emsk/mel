@@ -1,2 +1,2 @@
-require "mel/version"
-require "mel/cli"
+require 'mel/version'
+require 'mel/cli'
