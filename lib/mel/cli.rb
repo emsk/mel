@@ -11,5 +11,12 @@ module Mel
     def list
       Parser.parse(File.open(options[:file], 'r').read)
     end
+
+    desc 'version, -v, --version', 'Print the version'
+    map %w[-v --version] => :version
+
+    def version
+      puts "mel #{Mel::VERSION}"
+    end
   end
 end
