@@ -1,6 +1,7 @@
 # Mel
 
 [![Build Status](https://travis-ci.org/emsk/mel.svg?branch=master)](https://travis-ci.org/emsk/mel)
+[![Test Coverage](https://codeclimate.com/github/emsk/mel/badges/coverage.svg)](https://codeclimate.com/github/emsk/mel/coverage)
 
 Display list of methods in Ruby source codes.
 
