@@ -8,10 +8,12 @@ rvm:
   - 2.2.9
   - 2.3.6
   - 2.4.3
+  - 2.5.0
   - ruby-head
 before_install:
   - stty cols 160
-  - gem install bundler -v 1.15.4
+  - gem update --system
+  - gem update bundler
 before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
   - chmod +x ./cc-test-reporter
