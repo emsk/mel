@@ -16,7 +16,6 @@ environment:
     - RUBY_VERSION: 25-x64
 
 install:
-  - mode con:cols=160
   - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
   - bundle install
 

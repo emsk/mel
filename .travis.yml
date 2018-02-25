@@ -11,7 +11,6 @@ rvm:
   - 2.5.0
   - ruby-head
 before_install:
-  - stty cols 160
   - gem update --system
   - gem update bundler
 before_script:
