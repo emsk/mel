@@ -1,6 +1,6 @@
 # Mel
 
-[![Build Status](https://travis-ci.org/emsk/mel.svg?branch=master)](https://travis-ci.org/emsk/mel)
+[![Build Status](https://travis-ci.org/emsk/mel.svg?branch=main)](https://travis-ci.org/emsk/mel)
 [![Build status](https://ci.appveyor.com/api/projects/status/tstn3xff9u1iyfcd?svg=true)](https://ci.appveyor.com/project/emsk/mel)
 [![Test Coverage](https://codeclimate.com/github/emsk/mel/badges/coverage.svg)](https://codeclimate.com/github/emsk/mel/coverage)
 [![Code Climate](https://codeclimate.com/github/emsk/mel/badges/gpa.svg)](https://codeclimate.com/github/emsk/mel)
